@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to devops course & kishore is devops Engineer</h2>
+<h2>welcome to devops </h2>
 </body>
 </html>
